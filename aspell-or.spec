@@ -1,5 +1,5 @@
 Summary:	Oriya dictionary for aspell
-Summary(pl.UTF-8):   Słownik orija dla aspella
+Summary(pl.UTF-8):	Słownik orija dla aspella
 Name:		aspell-or
 Version:	0.03
 %define	subv	1
