@@ -1,5 +1,5 @@
 Summary:	Oriya dictionary for aspell
-Summary(pl):	S≥ownik orija dla aspella
+Summary(pl.UTF-8):   S≈Çownik orija dla aspella
 Name:		aspell-or
 Version:	0.03
 %define	subv	1
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Oriya dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik orija (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik orija (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-or-%{version}-%{subv}
